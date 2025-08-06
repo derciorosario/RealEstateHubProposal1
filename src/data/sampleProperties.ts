@@ -30,7 +30,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 4,
     bathrooms: 3,
     area: 320,
-    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=1000",
     featured: true,
     forSale: true,
     forRent: false,
@@ -38,7 +38,7 @@ export const sampleProperties: Property[] = [
     description: "Linda casa moderna em um bairro tranquilo com excelente segurança. A propriedade possui um design de plano aberto com tetos altos e iluminação natural em todos os ambientes.",
     agent: {
       name: "Ana Santos",
-      image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/women/44.jpg",
       phone: "84 123 4567"
     }
   },
@@ -51,7 +51,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 3,
     bathrooms: 2,
     area: 180,
-    image: "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1000",
     featured: true,
     forSale: true,
     forRent: false,
@@ -59,7 +59,7 @@ export const sampleProperties: Property[] = [
     description: "Deslumbrante apartamento à beira-mar com vista panorâmica para a Baía de Maputo. Acabamentos modernos em todo o imóvel com serviço de portaria 24 horas.",
     agent: {
       name: "João Malenga",
-      image: "https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/men/32.jpg",
       phone: "82 345 6789"
     }
   },
@@ -72,7 +72,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 2,
     bathrooms: 1,
     area: 120,
-    image: "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?q=80&w=1000",
     featured: false,
     forSale: true,
     forRent: false,
@@ -80,7 +80,7 @@ export const sampleProperties: Property[] = [
     description: "Casa encantadora no coração da Polana. A uma curta distância de cafés e boutiques. Perfeita como primeira casa ou propriedade de investimento.",
     agent: {
       name: "Luísa Tembe",
-      image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/women/68.jpg",
       phone: "83 456 7890"
     }
   },
@@ -93,7 +93,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 5,
     bathrooms: 5,
     area: 450,
-    image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?q=80&w=1000",
     featured: true,
     forSale: true,
     forRent: false,
@@ -101,7 +101,7 @@ export const sampleProperties: Property[] = [
     description: "Espetacular vila à beira-mar com vistas ininterruptas do oceano. Características incluem piscina infinita, cinema em casa, adega e acesso direto à praia.",
     agent: {
       name: "Carlos Fernandes",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/men/22.jpg",
       phone: "84 567 8901"
     }
   },
@@ -114,7 +114,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 1,
     bathrooms: 1,
     area: 45,
-    image: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?q=80&w=1000",
     featured: false,
     forSale: false,
     forRent: true,
@@ -122,7 +122,7 @@ export const sampleProperties: Property[] = [
     description: "Apartamento studio contemporâneo perfeito para jovens profissionais. Totalmente mobiliado com eletrodomésticos modernos e segurança 24 horas.",
     agent: {
       name: "Paulo Machava",
-      image: "https://images.unsplash.com/photo-1564564662038-aabc5b160d56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/men/52.jpg",
       phone: "86 678 9012"
     }
   },
@@ -135,7 +135,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 4,
     bathrooms: 2,
     area: 280,
-    image: "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1000",
     featured: false,
     forSale: true,
     forRent: false,
@@ -143,7 +143,7 @@ export const sampleProperties: Property[] = [
     description: "Casa familiar em um bairro seguro perto de excelentes escolas. Possui um grande jardim, piscina e área de entretenimento ao ar livre.",
     agent: {
       name: "Teresa Mondlane",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/women/28.jpg",
       phone: "82 789 0123"
     }
   },
@@ -156,7 +156,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 3,
     bathrooms: 3,
     area: 220,
-    image: "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1000",
     featured: true,
     forSale: true,
     forRent: false,
@@ -164,7 +164,7 @@ export const sampleProperties: Property[] = [
     description: "Cobertura luxuosa com vista panorâmica para o oceano e a cidade. Inclui terraço privativo no telhado, cozinha de designer e janelas do chão ao teto.",
     agent: {
       name: "Isabel Costa",
-      image: "https://images.unsplash.com/photo-1573497019707-1c04de26e4e2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/women/12.jpg",
       phone: "83 890 1234"
     }
   },
@@ -177,7 +177,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 3,
     bathrooms: 2.5,
     area: 160,
-    image: "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=1000",
     featured: false,
     forSale: true,
     forRent: false,
@@ -185,7 +185,7 @@ export const sampleProperties: Property[] = [
     description: "Casa moderna em um condomínio fechado bem conservado com instalações comunitárias, incluindo piscina e clubhouse.",
     agent: {
       name: "Roberto Sitoe",
-      image: "https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/men/42.jpg",
       phone: "84 901 2345"
     }
   },
@@ -198,7 +198,7 @@ export const sampleProperties: Property[] = [
     bedrooms: 2,
     bathrooms: 2,
     area: 120,
-    image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?q=80&w=1000",
     featured: true,
     forSale: false,
     forRent: true,
@@ -206,7 +206,7 @@ export const sampleProperties: Property[] = [
     description: "Apartamento de alto padrão no exclusivo bairro de Julius Nyerere. Totalmente mobiliado com acabamentos de designer e eletrodomésticos premium.",
     agent: {
       name: "Sofia Mabjaia",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      image: "https://randomuser.me/api/portraits/women/33.jpg",
       phone: "82 012 3456"
     }
   }
@@ -217,21 +217,21 @@ export const sampleNews = [
     id: "1",
     title: "Mercado Imobiliário de Moçambique Mostra Sinais de Recuperação",
     excerpt: "Dados recentes indicam uma tendência positiva no mercado imobiliário de Moçambique com aumento do volume de vendas em áreas-chave.",
-    image: "https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?q=80&w=1000",
     date: "2023-07-15"
   },
   {
     id: "2",
     title: "Novos Incentivos Fiscais para Compradores de Primeira Casa",
     excerpt: "O governo anunciou novos benefícios fiscais destinados a ajudar compradores de primeira casa a entrar no mercado imobiliário.",
-    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1000",
     date: "2023-06-28"
   },
   {
     id: "3",
     title: "Preços de Imóveis em Maputo Continuam a Subir",
     excerpt: "O mercado imobiliário da capital moçambicana permanece forte com crescimento consistente de preços, apesar dos desafios econômicos.",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "/images/RealEstate.jpg",
     date: "2023-08-03"
   }
 ];
@@ -240,7 +240,7 @@ export const sampleAgents = [
   {
     id: "1",
     name: "Ana Santos",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://randomuser.me/api/portraits/women/44.jpg",
     area: "Sommerschield, Maputo",
     properties: 24,
     phone: "84 123 4567",
@@ -249,7 +249,7 @@ export const sampleAgents = [
   {
     id: "2",
     name: "João Malenga",
-    image: "https://images.unsplash.com/photo-1564564244660-5d73c057f2d2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://randomuser.me/api/portraits/men/32.jpg",
     area: "Centro da Cidade, Maputo",
     properties: 18,
     phone: "82 345 6789",
@@ -258,7 +258,7 @@ export const sampleAgents = [
   {
     id: "3",
     name: "Isabel Costa",
-    image: "https://images.unsplash.com/photo-1573497019707-1c04de26e4e2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://randomuser.me/api/portraits/women/12.jpg",
     area: "Coop, Maputo",
     properties: 31,
     phone: "83 890 1234",
@@ -267,7 +267,7 @@ export const sampleAgents = [
   {
     id: "4",
     name: "Carlos Fernandes",
-    image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+    image: "https://randomuser.me/api/portraits/men/22.jpg",
     area: "Costa do Sol, Maputo",
     properties: 15,
     phone: "84 567 8901",
